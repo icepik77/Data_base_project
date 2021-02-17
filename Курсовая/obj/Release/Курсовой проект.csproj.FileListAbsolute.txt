@@ -1,0 +1,50 @@
+C:\Users\Настя\Desktop\Материалы\5 семестр\Базы данных\Курсовой проект\Курсач 2\Курсовой проект\bin\Release\Курсовой проект.exe.config
+C:\Users\Настя\Desktop\Материалы\5 семестр\Базы данных\Курсовой проект\Курсач 2\Курсовой проект\bin\Release\Курсовой проект.exe
+C:\Users\Настя\Desktop\Материалы\5 семестр\Базы данных\Курсовой проект\Курсач 2\Курсовой проект\bin\Release\Курсовой проект.pdb
+C:\Users\Настя\Desktop\Материалы\5 семестр\Базы данных\Курсовой проект\Курсач 2\Курсовой проект\obj\Release\Курсовой проект.csprojAssemblyReference.cache
+C:\Users\Настя\Desktop\Материалы\5 семестр\Базы данных\Курсовой проект\Курсач 2\Курсовой проект\obj\Release\Курсовой_проект.Form1.resources
+C:\Users\Настя\Desktop\Материалы\5 семестр\Базы данных\Курсовой проект\Курсач 2\Курсовой проект\obj\Release\Курсовой_проект.Form2.resources
+C:\Users\Настя\Desktop\Материалы\5 семестр\Базы данных\Курсовой проект\Курсач 2\Курсовой проект\obj\Release\Курсовой_проект.Form3.resources
+C:\Users\Настя\Desktop\Материалы\5 семестр\Базы данных\Курсовой проект\Курсач 2\Курсовой проект\obj\Release\Курсовой_проект.Properties.Resources.resources
+C:\Users\Настя\Desktop\Материалы\5 семестр\Базы данных\Курсовой проект\Курсач 2\Курсовой проект\obj\Release\Курсовой проект.csproj.GenerateResource.cache
+C:\Users\Настя\Desktop\Материалы\5 семестр\Базы данных\Курсовой проект\Курсач 2\Курсовой проект\obj\Release\Курсовой проект.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Desktop\Материалы\5 семестр\Базы данных\Курсовой проект\Курсач 2\Курсовой проект\obj\Release\Курсовой проект.exe
+C:\Users\Настя\Desktop\Материалы\5 семестр\Базы данных\Курсовой проект\Курсач 2\Курсовой проект\obj\Release\Курсовой проект.pdb
+C:\Users\icepi\Downloads\Курсовой проект (программа)\bin\Release\Курсовой проект.exe.config
+C:\Users\icepi\Downloads\Курсовой проект (программа)\bin\Release\Курсовой проект.exe
+C:\Users\icepi\Downloads\Курсовой проект (программа)\bin\Release\Курсовой проект.pdb
+C:\Users\icepi\Downloads\Курсовой проект (программа)\obj\Release\Курсовой проект.csprojAssemblyReference.cache
+C:\Users\icepi\Downloads\Курсовой проект (программа)\obj\Release\Курсовой_проект.Form1.resources
+C:\Users\icepi\Downloads\Курсовой проект (программа)\obj\Release\Курсовой_проект.Form2.resources
+C:\Users\icepi\Downloads\Курсовой проект (программа)\obj\Release\Курсовой_проект.Form3.resources
+C:\Users\icepi\Downloads\Курсовой проект (программа)\obj\Release\Курсовой_проект.Properties.Resources.resources
+C:\Users\icepi\Downloads\Курсовой проект (программа)\obj\Release\Курсовой проект.csproj.GenerateResource.cache
+C:\Users\icepi\Downloads\Курсовой проект (программа)\obj\Release\Курсовой проект.csproj.CoreCompileInputs.cache
+C:\Users\icepi\Downloads\Курсовой проект (программа)\obj\Release\Курсовой проект.exe
+C:\Users\icepi\Downloads\Курсовой проект (программа)\obj\Release\Курсовой проект.pdb
+D:\ВУЗ\Базы данных\Курсовая\Курсовая\bin\Release\Курсовой проект.exe.config
+D:\ВУЗ\Базы данных\Курсовая\Курсовая\bin\Release\Курсовой проект.exe
+D:\ВУЗ\Базы данных\Курсовая\Курсовая\bin\Release\Курсовой проект.pdb
+D:\ВУЗ\Базы данных\Курсовая\Курсовая\obj\Release\Курсовой проект.csprojAssemblyReference.cache
+D:\ВУЗ\Базы данных\Курсовая\Курсовая\obj\Release\Курсовой_проект.Form1.resources
+D:\ВУЗ\Базы данных\Курсовая\Курсовая\obj\Release\Курсовой_проект.Properties.Resources.resources
+D:\ВУЗ\Базы данных\Курсовая\Курсовая\obj\Release\Курсовой проект.csproj.GenerateResource.cache
+D:\ВУЗ\Базы данных\Курсовая\Курсовая\obj\Release\Курсовой проект.csproj.CoreCompileInputs.cache
+D:\ВУЗ\Базы данных\Курсовая\Курсовая\obj\Release\Курсовой проект.exe
+D:\ВУЗ\Базы данных\Курсовая\Курсовая\obj\Release\Курсовой проект.pdb
+D:\ВУЗ\Базы данных\Курсовая\Курсовая\obj\Release\Курсовой_проект.Form4.resources
+D:\ВУЗ\Базы данных\Курсовая\Курсовая\obj\Release\Курсовой_проект.Form2.resources
+D:\ВУЗ\Базы данных\Курсовая\Курсовая\obj\Release\Курсовой_проект.Form3.resources
+E:\ВУЗ\Базы данных\Курсовая\Курсовая\bin\Release\Курсовой проект.exe.config
+E:\ВУЗ\Базы данных\Курсовая\Курсовая\bin\Release\Курсовой проект.exe
+E:\ВУЗ\Базы данных\Курсовая\Курсовая\bin\Release\Курсовой проект.pdb
+E:\ВУЗ\Базы данных\Курсовая\Курсовая\obj\Release\Курсовой проект.csprojAssemblyReference.cache
+E:\ВУЗ\Базы данных\Курсовая\Курсовая\obj\Release\Курсовой_проект.Form1.resources
+E:\ВУЗ\Базы данных\Курсовая\Курсовая\obj\Release\Курсовой_проект.Form2.resources
+E:\ВУЗ\Базы данных\Курсовая\Курсовая\obj\Release\Курсовой_проект.Form3.resources
+E:\ВУЗ\Базы данных\Курсовая\Курсовая\obj\Release\Курсовой_проект.Form4.resources
+E:\ВУЗ\Базы данных\Курсовая\Курсовая\obj\Release\Курсовой_проект.Properties.Resources.resources
+E:\ВУЗ\Базы данных\Курсовая\Курсовая\obj\Release\Курсовой проект.csproj.GenerateResource.cache
+E:\ВУЗ\Базы данных\Курсовая\Курсовая\obj\Release\Курсовой проект.csproj.CoreCompileInputs.cache
+E:\ВУЗ\Базы данных\Курсовая\Курсовая\obj\Release\Курсовой проект.exe
+E:\ВУЗ\Базы данных\Курсовая\Курсовая\obj\Release\Курсовой проект.pdb

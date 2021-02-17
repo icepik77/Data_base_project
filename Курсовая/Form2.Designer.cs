@@ -222,9 +222,10 @@ namespace Курсовой_проект
             // label23
             // 
             this.label23.AutoSize = true;
+            this.label23.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label23.Location = new System.Drawing.Point(13, 482);
             this.label23.Name = "label23";
-            this.label23.Size = new System.Drawing.Size(83, 13);
+            this.label23.Size = new System.Drawing.Size(95, 13);
             this.label23.TabIndex = 2;
             this.label23.Text = "Параметры D2";
             // 
@@ -303,27 +304,30 @@ namespace Курсовой_проект
             // label2
             // 
             this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label2.Location = new System.Drawing.Point(14, 226);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(199, 13);
+            this.label2.Size = new System.Drawing.Size(232, 13);
             this.label2.TabIndex = 2;
             this.label2.Text = "Определение D1 по материалу ремня";
             // 
             // label15
             // 
             this.label15.AutoSize = true;
+            this.label15.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label15.Location = new System.Drawing.Point(14, 158);
             this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(248, 13);
+            this.label15.Size = new System.Drawing.Size(290, 13);
             this.label15.TabIndex = 2;
             this.label15.Text = "Определение D1 по ориентировочной скорости";
             // 
             // label14
             // 
             this.label14.AutoSize = true;
+            this.label14.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label14.Location = new System.Drawing.Point(14, 56);
             this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(173, 13);
+            this.label14.Size = new System.Drawing.Size(202, 13);
             this.label14.TabIndex = 2;
             this.label14.Text = "Определение D1 по ф. Саверина";
             // 
@@ -351,9 +355,10 @@ namespace Курсовой_проект
             // label13
             // 
             this.label13.AutoSize = true;
+            this.label13.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label13.Location = new System.Drawing.Point(14, 16);
             this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(132, 13);
+            this.label13.Size = new System.Drawing.Size(154, 13);
             this.label13.TabIndex = 1;
             this.label13.Text = "Тип расчета диметра D1";
             // 
@@ -375,8 +380,12 @@ namespace Курсовой_проект
             // 
             this.comboBox2.FormattingEnabled = true;
             this.comboBox2.Items.AddRange(new object[] {
-            "Тканевые прорезиненные ",
-            "Синтетические капроновые "});
+            "Б-800",
+            "Б-820",
+            "БКНЛ-65",
+            "БКНЛ-65-2",
+            "Синтетические капроновые тип 1",
+            "Синтетические капроновые тип 2"});
             this.comboBox2.Location = new System.Drawing.Point(17, 255);
             this.comboBox2.Name = "comboBox2";
             this.comboBox2.Size = new System.Drawing.Size(211, 21);
@@ -547,7 +556,7 @@ namespace Курсовой_проект
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button6);
             this.Name = "Form2";
-            this.Text = "Form2";
+            this.Text = "Редактирование передачи";
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
             this.groupBox4.ResumeLayout(false);

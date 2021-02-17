@@ -448,7 +448,8 @@
             "Тканевый Б-820",
             "Тканевый БКНЛ-65",
             "Тканевый БКНЛ-65-2",
-            "Синтетические капроновые "});
+            "Синтетические капроновые тип 1",
+            "Синтетические капроновые тип 2"});
             this.comboBox2.Location = new System.Drawing.Point(17, 255);
             this.comboBox2.Name = "comboBox2";
             this.comboBox2.Size = new System.Drawing.Size(211, 21);
